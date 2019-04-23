@@ -9,4 +9,19 @@ h1{
     font-size: 300%;
     color:black;
     text-align: center;
+    padding:20px;
+    margin:25px;
+    
+}
+a{
+    font-size:150%;
+    color:black;
+    text-decoration:none;
+
+}
+.boxed{
+    border: 5px solid green;
+}
+a:hover{
+    background-color:white;
 }

@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: teal;
+    background-color: lightseagreen;
 }
 
 h1 {
@@ -61,4 +61,5 @@ img {
     line-height: 20px;
     font-size:150%;
     float:right;
+    font-weight:bold;
 }
