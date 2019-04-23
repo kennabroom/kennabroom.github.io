@@ -55,3 +55,10 @@ img {
     float: left;
     background-color: white;
 }
+#text{
+    padding:20px;
+    margin: 10px;
+    line-height: 20px;
+    font-size:150%;
+    float:right;
+}
