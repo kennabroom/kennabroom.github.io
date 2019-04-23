@@ -1,0 +1,57 @@
+﻿body {
+    background-color: teal;
+}
+
+h1 {
+    font-size: 300%;
+    color: black;
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+a:visited{
+    text-decoration:none;
+}
+a:hover{
+    color:blue;
+}
+img {
+    
+    padding: 40px;
+    width: 25%;
+    height: 25%;
+    float: left;
+}
+
+#AboutMe {
+    padding: 12px;
+    width:18%;
+    float:left;
+    background-color:white;
+   
+}
+
+#EmpHistory {
+    padding: 12px;
+    width:18%;
+    float:left;
+    background-color:white;
+    
+}
+
+#Projects {
+    padding: 12px;
+    width:18%;
+    float:left;
+    background-color:white;
+    
+}
+
+#SkillSet {
+    padding: 12px;
+    width: 35%;
+    float: left;
+    background-color: white;
+}
