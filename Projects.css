@@ -9,4 +9,21 @@ h1{
     font-size: 300%;
     color:black;
     text-align: center;
+    
+}
+a{
+    text-decoration:none;
+    background-color:white;
+    display:block;
+    padding:20px;
+    margin:25px;
+    text-align: center;
+    border-radius:10px;
+   
+}
+a:hover{
+    background-color:deepskyblue;
+}
+ul{
+    list-style-type:none;
 }

@@ -7,6 +7,10 @@ h1 {
     color: black;
     text-align: center;
 }
+h2{
+    font-size:150%;
+    float:right;
+}
 a{
     text-decoration:none;
     color: black;
@@ -23,14 +27,28 @@ img {
     width: 25%;
     height: 25%;
     float: left;
+    display:block;
+    background-color:black;
 }
+
+.column {
+    float: left;
+    width: 100%;
+    padding: 10px;
+}
+
 
 #AboutMe {
     padding: 12px;
     width:18%;
     float:left;
     background-color:white;
+    font-size: 20px;
+    font-family:Impact;
    
+}
+#AboutMe:hover{
+    background-color:gray;
 }
 
 #EmpHistory {
@@ -38,7 +56,12 @@ img {
     width:18%;
     float:left;
     background-color:white;
+    font-size:20px;
+    font-family:Impact;
     
+}
+#EmpHistory:hover{
+    background-color:gray;
 }
 
 #Projects {
@@ -46,7 +69,11 @@ img {
     width:18%;
     float:left;
     background-color:white;
-    
+    font-size:20px;
+    font-family:Impact;
+}
+#Projects:hover{
+    background-color:gray;
 }
 
 #SkillSet {
@@ -54,6 +81,14 @@ img {
     width: 35%;
     float: left;
     background-color: white;
+    font-size:20px;
+    font-family:Impact;
+}
+#SkillSet:hover{
+    background-color:gray;
+}
+.row{
+    width:100%;
 }
 #text{
     padding:20px;
@@ -61,4 +96,5 @@ img {
     line-height: 20px;
     font-size:150%;
     float:right;
+    font-weight:bold;
 }
